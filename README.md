@@ -1,2 +1,8 @@
-# java-coursework
-Coursework and practice project in Java
+## Song Contest Project
+
+### Technologies
+- Java
+- Procedural Programming
+
+### Status
+In progress
